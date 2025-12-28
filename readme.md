@@ -1,4 +1,4 @@
-# Noise app frontend for esp32
+# Noise app using esp32
 
-uses ArduinoJson to send http post messages
+ESP32 code to read noise sensor data, send it to (https://github.com/b21dccn267/NoiseToolService) and displayed on (https://github.com/b21dccn267/NoiseToolUI)
 
